@@ -1,6 +1,6 @@
 
-##👋 Hi, I’m Mohamadreza
-## 🧪 I’m currently learning React js & Next js
+
+## 👋 Hi, I’m Mohamadreza 🧪 I’m currently learning React js & Next js
 
 <div align="center">
     <a href="#">
