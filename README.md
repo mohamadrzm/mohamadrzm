@@ -5,6 +5,9 @@
 
 
 </div>
-  
-    <a>👋 Hi, I’m Mohamadreza</a>
-    <a>🧪 I’m currently learning React js & Next js</a>
+<div align="center">
+    👋 Hi, I’m Mohamadreza
+    🧪 I’m currently learning React js & Next js
+
+</div>
+
