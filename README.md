@@ -6,7 +6,4 @@ Hello, my name is Mohammad Reza. I always try to look outside the box like a hac
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,docker,python,linux&theme=dark)](https://www.linkedin.com/in/mohamadreza-mirjani-7841542b8/)
 
-If you’d like to get in touch, feel free to say hello through my linkedin :) :
-
-[![My Linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/mohamadreza-mirjani-7841542b8/)
 
