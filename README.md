@@ -33,5 +33,10 @@ Hello, my name is Mohammad Reza. I always try to look outside the box like a hac
           <td>✅</td>
          <td>Streamflow is a popular Filmflow version. And uses Filmflow to give you the video list as well as their download link :)</td>
        </tr>
+      <tr>
+         <td width="180px"><a href='https://github.com/mohamadrzm/dnspure'>🛜 DNS Pure </a></td>
+          <td>✅</td>
+         <td>A very simple and fast tool to change DNS in Linux</td>
+       </tr>
     </tbody>
 </table>
